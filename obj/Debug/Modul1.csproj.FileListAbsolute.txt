@@ -1,0 +1,11 @@
+D:\ProjectPCD\Modul1\bin\Debug\Modul1.exe.config
+D:\ProjectPCD\Modul1\bin\Debug\Modul1.exe
+D:\ProjectPCD\Modul1\bin\Debug\Modul1.pdb
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.csprojAssemblyReference.cache
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.Form1.resources
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.Properties.Resources.resources
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.csproj.GenerateResource.cache
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.csproj.CoreCompileInputs.cache
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.exe
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.pdb
+D:\ProjectPCD\Modul1\obj\Debug\Modul1.Form2.resources
